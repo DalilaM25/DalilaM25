@@ -6,17 +6,11 @@
 ## Мой стэк: 
 [![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)](#)
-
 [![React](https://img.shields.io/badge/React-18-333333?logo=react)](#)
 [![RTK](https://img.shields.io/badge/Redux-Toolkit-8C5AFF?style=flat&logo=redux&logoColor=white)](#)
 
-[![Cypress](https://img.shields.io/badge/Cypress-193440?logo=cypress
-)](#)
-[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest)](#)
-
 [![HTML5](https://img.shields.io/badge/HTML5-333333?logo=html5
 )](#)
-
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3
 )](#)
 [![SASS](https://img.shields.io/badge/SASS-333333?logo=sass
@@ -26,11 +20,14 @@
 [![SASS](https://img.shields.io/badge/Pixel%20Perfect-333333
 )](#)
 
+[![Cypress](https://img.shields.io/badge/Cypress-193440?logo=cypress
+)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest)](#)
+
 [![Webpack](https://img.shields.io/badge/Webpack-333333?logo=webpack
 )](#)
 [![Vite](https://img.shields.io/badge/Vite-333333?logo=vite
 )](#)
-
 [![npm](https://img.shields.io/badge/npm-333333?logo=npm
 )](#)
 [![yarn](https://img.shields.io/badge/yarn-333333?logo=yarn
