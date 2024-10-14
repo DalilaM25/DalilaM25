@@ -34,14 +34,8 @@
 )](#)
 
 
+## Мои контакты
+<img src="https://github.com/user-attachments/assets/3eb0c5ad-b72b-43a3-872e-167dab3f2a05" width=11px height=12px ><img/> [@DaryaMihaylovaYou](https://t.me/DaryaMihaylovaYou)
 
-<div align="center">
-   <h3>Мои контакты</h3> 
-  <ul style="list-style-type: none">
-    <li>  
-      <img src="https://github.com/user-attachments/assets/3eb0c5ad-b72b-43a3-872e-167dab3f2a05" width=11px height=12px ><img/>
-<a href="https://t.me/DaryaMihaylovaYou">@DaryaMihaylovaYou</a></li>
-<li><img src="https://github.com/user-attachments/assets/f14deade-d304-4f59-babf-bd005e115358" width=11px height=12px ><img/>
-<a href="https://d.mikhaylova.y@gmail.com">d.mikhaylova.y@gmail.com</a></li>
-  </ul>
-   </div>
+<img src="https://github.com/user-attachments/assets/f14deade-d304-4f59-babf-bd005e115358" width=11px height=12px ><img/> [d.mikhaylova.y@gmail.com](mailto:d.mikhaylova.y@gmail.com)
+
