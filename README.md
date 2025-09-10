@@ -34,8 +34,5 @@
 )](#)
 
 
-## Мои контакты
-<img src="https://github.com/user-attachments/assets/3eb0c5ad-b72b-43a3-872e-167dab3f2a05" width=11px height=12px ><img/> [@DaryaMihaylovaYou](https://t.me/DaryaMihaylovaYou)
 
-<img src="https://github.com/user-attachments/assets/f14deade-d304-4f59-babf-bd005e115358" width=11px height=12px ><img/> [d.mikhaylova.y@gmail.com](mailto:d.mikhaylova.y@gmail.com)
 
