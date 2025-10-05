@@ -10,7 +10,6 @@
 [![RTK](https://img.shields.io/badge/Redux-Toolkit-8C5AFF?style=flat&logo=redux&logoColor=white)](#)
 [![Vue](https://img.shields.io/badge/Vue-3.3.0-green)](https://vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-4.4.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Module Federation](https://img.shields.io/badge/Module%20Federation-✓-orange)](https://module-federation.io/)
 
 [![HTML5](https://img.shields.io/badge/HTML5-333333?logo=html5
